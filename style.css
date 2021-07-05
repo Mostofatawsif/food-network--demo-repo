@@ -1,0 +1,86 @@
+*{
+    margin: 20px auto;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.orange-color{
+    color: #ffa500;
+}
+h1{
+    font-size: 50px;
+    /* margin-top: 180px; */
+
+}
+.half-width{
+    width: 40%;
+    padding: 5%;
+}
+.one-third{
+    width: 24%;
+    box-shadow: 10px 10px 30px rgb(150, 147, 147);
+    border-radius: 25px;
+    border: 11px solid white;
+}
+
+.flexible-section{
+    display: flex;
+}
+img{
+    max-width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,yellow);
+    padding: 20px 40px;
+    border-radius: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    margin-top: 60px;
+}
+#div1{
+    margin-top: 150px;
+}
+#section2{
+    background-image: url(/images/shapes/7.png);
+    margin-bottom: -100px;
+}
+#section3{
+    text-align: center;
+    background-color: #1abc9c;
+    padding-bottom: 30px;
+    
+}
+#section4{
+    text-align: center;
+    margin: 0 140px
+}
+#section5{
+    box-shadow: 10px 10px 30px gray;
+    margin: 20px 175px;
+    border-radius: 10px;
+    background-color: #3498db;
+}
+#section6{
+    text-align: center;
+    margin: 0 175px;
+    background-color: #e67e22 ;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px 30px gray;
+
+}
+#section6 img{
+    max-width: 22%;
+}
+.color{
+    background-color:#1abc9c ;
+    border: 2px solid black;
+    box-shadow: none;
+    
+}
+#footer{
+    text-align: center;
+    background-color: #2c3e50;
+    color: white;
+    padding: 7px;
+}
